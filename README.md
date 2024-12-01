@@ -1,4 +1,4 @@
-# DaoTung-Q.Hung
+# LapTrinhMang
 Giới thiệu phần mềm phát video trong mạng LAN
 Phần mềm phát video trong mạng LAN là một ứng dụng cho phép một máy tính trong mạng nội bộ (LAN) phát video trực tiếp (livestream), và các máy khác trong cùng mạng có thể tham gia để xem. Điều này tương tự như tính năng phát trực tiếp, nhưng chỉ giới hạn trong mạng nội bộ, giúp tiết kiệm băng thông internet và phù hợp với các môi trường như văn phòng, lớp học, hoặc các sự kiện nhỏ.
 
